@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Mini Lyric Customized",
+        "description": "Floating Picture-in-Picture lyrics window with custom themes and interactive player controls.",
+        "preview": "Mini-Lyric-Customized/Popup Mini Lyric Wide.png",
+        "main": "Mini-Lyric-Customized/Mini-Lyric-Customized.js",
+        "readme": "Mini-Lyric-Customized/README.md"
+    },
+    {
+        "name": "Adblock",
+        "description": "Block audio and UI ads with auto-mute fallback, stats, and a settings modal.",
+        "preview": "",
+        "main": "adblock/adblock.js",
+        "readme": "adblock/README.md"
+    },
+    {
+        "name": "Full App Display Jeki",
+        "description": "Custom fancy artwork, track status, and interactive progress waveform overlay.",
+        "preview": "fullAppDisplayJeki/FullAppDisplay With Lyric.png",
+        "main": "fullAppDisplayJeki/fullAppDisplayJeki.js",
+        "readme": "fullAppDisplayJeki/README.md"
+    }
+]
